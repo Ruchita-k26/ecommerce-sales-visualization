@@ -1,5 +1,5 @@
 # Madhav Ecommerce Sales Dashboard
-# Online Sales Dashboard - Power BI Project
+## Power BI Project
 
 ## Overview
 This project is an interactive Power BI dashboard created to track, analyze, and visualize online sales data.
@@ -9,6 +9,13 @@ The dashboard provides business insights through dynamic visualizations, filters
 ---
 ## Dashboard Preview   
 
+![Sales Overview](images/1.png)
+
+![Profit Analysis](images/2.png)
+
+![Customer Analysis](images/3.png)
+
+![Payment Analysis](images/4.png)
 
 ## Key Features
 - Interactive sales dashboard
@@ -73,5 +80,3 @@ Ruchita Kumbhare
 ## Acknowledgment
 
 Thanks to Rishabh Mishra for the Power BI tutorial and project guidance shared on YouTube.
-
-## Acknowlegment 
