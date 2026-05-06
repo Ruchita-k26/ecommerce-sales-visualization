@@ -7,6 +7,8 @@ This project is an interactive Power BI dashboard created to track, analyze, and
 The dashboard provides business insights through dynamic visualizations, filters, slicers, and user-driven analysis features.
 
 ---
+## Dashboard Preview   
+
 
 ## Key Features
 - Interactive sales dashboard
